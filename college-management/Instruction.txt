@@ -1,0 +1,7 @@
+Step 1: Open XAMPP control panel
+Step 2: Start Apache and MYSQL
+Step 3: Go to Microsoft Edge Browser
+Step 4: Open Student Login Page (Already At Favorite Bar)
+Step 5: Login and Do operations
+Step5: Open teacher Login Page
+Step 6: Open Database for Viewing (Open XAMPP panel and Click on Admin in MYSQL)
